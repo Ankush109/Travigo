@@ -1,0 +1,98 @@
+.post{
+    width: 55%;
+    background-color: rgb(177, 224, 248);
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    padding:0 1vmax 3vmax;
+    margin:2vmax
+
+}
+.postheader{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 1vmax;
+
+}
+.postdetails{
+    display: flex;
+    padding:3vmax;
+    align-items: center;
+    flex-direction: column;
+}
+.left{
+display: flex;
+justify-content: right;
+
+
+}
+.left > a {
+text-decoration: none;
+display: flex;
+justify-content: right;
+color: rgb(0,0,0);
+margin: 2vmax;
+padding-bottom: 20px
+}
+.post >img {
+    width: 100%;
+}
+.details{
+    padding: 13px;
+    background-color: rgba(168, 210, 249, 0.851);
+    width: 100%;
+}
+.postheader >button{
+    border-radius: 100%;
+    color: rgba(0,0,0,0.582);
+}
+.postfooter >button{
+    color: rgba(0,0,0,0.767);
+    margin: 0 1 vmax;
+    border-radius: 100%;
+    transition: all 0.3s;
+}
+.postfooter >button:hover{
+    transform: translateY(-4px);
+}
+.text>a{
+    text-decoration: none;
+    color: black;
+}
+.DialogBox {
+    min-width: 500px;
+    height: 100vh;
+    padding: 2vmax;
+}
+
+.commentForm {
+    display: flex;
+    margin: 1vmax;
+}
+
+.commentForm>input {
+    width: 100%;
+    padding: 1vmax 2vmax;
+    outline: none;
+    border: 1px solid rgba(0, 0, 0, 0.288);
+    border-radius: 30px 0 0 30px;
+    font: 100 1vmax "Roboto", sans-serif;
+}
+
+.commentForm>button {
+    border-radius: 0%;
+}
+@media screen and (max-width: 600px) {
+    .post {
+        width: 100%;
+        border-radius: 0;
+        box-shadow: none;
+        border: 1px solid rgba(0, 0, 0, 0.068);
+        padding: 0 0 4vw;
+        margin: 0;
+    }
+
+    .postFooter>button>svg {
+        font-size: 8vw;
+    }
+}

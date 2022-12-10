@@ -1,0 +1,14 @@
+
+.text{
+    color: white
+
+}
+.main-header >a{
+    text-decoration: none;
+}
+.login>a {
+    text-decoration: none;
+}
+.addpost>a{
+    text-decoration: none;
+}
