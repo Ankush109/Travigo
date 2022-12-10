@@ -19,7 +19,7 @@ Travigo is a travel bloggin web application where user can post their travel exp
 Clone the project
 
 ```bash
-  git clone
+  git clone https://github.com/Ankush109/Travigo.git
 ```
 
 Go to the project directory
@@ -59,64 +59,26 @@ Start the Client
 ### Home page
 
 ![](https://github.com/Ankush109/Travigo/blob/main/frontend/src/Components/images/Screenshot_20221211_012429.png)
-![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/adatsignup.jpeg)
-![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/adatlogin.jpeg)
 
-### Products page
+### Login/Register page
 
-![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/productsp.jpeg)
+![](https://github.com/Ankush109/Travigo/blob/main/frontend/src/Components/images/Screenshot_20221211_022410.png)
 
-### My cart
+### new post page
 
-![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/cart.jpeg)
+![](https://github.com/Ankush109/Travigo/blob/main/frontend/src/Components/images/Screenshot_20221211_012454.png)
 
-### Write review and add rating
+### accounts page
 
-![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/writereview.jpeg)
+![](https://github.com/Ankush109/Travigo/blob/main/frontend/src/Components/images/Screenshot_20221211_012524.png)
 
-### Add address
+### change password
 
-![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/confirmaddress.jpeg)
+![](https://github.com/Ankush109/Travigo/blob/main/frontend/src/Components/images/Screenshot_20221211_012538.png)
 
-### Shipping info
+### search user by name
 
-![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/shippinginfo.jpeg)
-
-### review orders
-
-![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/userorder.jpeg)
-
-### Update profile
-
-![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/update%20profile.jpeg)
-
-### My profile
-
-![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/myprofile.jpeg)
-
-### Admin Panel(only those who are admin can access and use these features)
-
-![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/admin.jpeg)
-
-### Add products
-
-![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/addproducts.jpeg)
-
-### See all users who have been registered
-
-![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/users.jpeg)
-
-### See all products created till now , you can even delete any product
-
-![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/productsad.jpeg)
-
-### See all orders which have been placed by users
-
-![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/orderadm.jpeg)
-
-### See reviews of any product by giving the product ID and you can even delete it
-
-![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/r.jpeg)
+![](https://github.com/Ankush109/Travigo/blob/main/frontend/src/Components/images/Screenshot_20221211_020216.png)
 
 ## Made By
 
